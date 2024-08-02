@@ -1,6 +1,6 @@
 namespace Expense_Tracker.Models
 {
-    public class ErrorViewModel
+ public class ErrorViewModel
     {
         public string? RequestId { get; set; }
 
