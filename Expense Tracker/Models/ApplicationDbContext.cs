@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-
 namespace Expense_Tracker.Models
 {
     public class ApplicationDbContext:DbContext
